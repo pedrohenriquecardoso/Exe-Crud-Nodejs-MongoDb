@@ -21,3 +21,10 @@ Digíte no terminal do vscode "git clone https://github.com/pedrohenriquecardoso
 Digíte no terminal "npm install"
 
 ```
+
+#### Para rodar a api localmente:
+
+```
+Digíte no terminal "npm run dev"
+
+```
