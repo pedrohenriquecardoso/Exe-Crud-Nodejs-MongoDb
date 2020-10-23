@@ -6,7 +6,7 @@
 * dotenv
 * express
 * mongoose
-* nodemoon
+* nodemon
 
 #### Para fazer o clone dos arquivos:
 
